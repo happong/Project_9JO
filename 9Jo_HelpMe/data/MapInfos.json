@@ -13,7 +13,7 @@ null,
 {"id":11,"expanded":true,"name":"왕궁","order":11,"parentId":3,"scrollX":1216.5,"scrollY":691.5},
 {"id":12,"expanded":false,"name":"왕의 집무실","order":13,"parentId":11,"scrollX":816,"scrollY":640},
 {"id":13,"expanded":false,"name":"제사장집무실","order":14,"parentId":11,"scrollX":0,"scrollY":0},
-{"id":14,"expanded":true,"name":"미로","order":15,"parentId":11,"scrollX":1622.6666666666667,"scrollY":913.3333333333334},
+{"id":14,"expanded":true,"name":"미로","order":15,"parentId":11,"scrollX":1390.2857142857142,"scrollY":776.5714285714286},
 {"id":15,"expanded":true,"name":"비밀감옥","order":16,"parentId":11,"scrollX":0,"scrollY":0},
 {"id":16,"expanded":false,"name":"MAP016aa","order":17,"parentId":15,"scrollX":0,"scrollY":0},
 {"id":17,"expanded":false,"name":"성입구","order":12,"parentId":11,"scrollX":1228.5,"scrollY":691.5}
